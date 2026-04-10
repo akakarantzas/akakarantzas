@@ -1,5 +1,5 @@
 # About Me
-I'm currently working on F1 Analytics Platform and Partcl x HRT Challenge 2026<br>I'm looking to collaborate on F1 analytics, AI/ML systems, and fintech projects<br>I'm currently learning machine learning and conducting research on AI applications in niche businesses like the yachting industry<br>Ask me about AI, ML systems, the HRT Macro Placement Challenge
+I'm currently working on my own F1 Analytics Platform and the Partcl x Hudson River Trading Challenge 2026<br>I'm looking to collaborate on F1 analytics, AI/ML systems, and fintech projects<br>I'm currently learning machine learning and conducting research on AI applications in niche businesses like the yachting industry<br>Ask me about AI, ML systems, the HRT Macro Placement Challenge
 
 
 ## 🌐 Socials:
