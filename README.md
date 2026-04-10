@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**akakarantzas/akakarantzas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello
 
 # 💫 About Me:
 I'm currently working on F1 Analytics Platform and Partcl x HRT Challenge 2026<br>I'm looking to collaborate on F1 analytics, AI/ML systems, and fintech projects<br>I'm currently learning machine learning and conducting research on AI applications in businesses<br>Ask me about AI, ML systems, the HRT Macro Placement Challenge
