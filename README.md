@@ -1,8 +1,7 @@
-# About Me
-🏎️ currently building my own AI-powered F1 analytics web app<br>🤝 open to collab on F1 analytics, ML, and fintech projects<br>- 🔬 researching AI applications in niche industries (e.g. yachting) and building end-to-end ML systems<br>💬 down to talk ML and building stuff that actually ships
+🏎️ currently building my own AI-powered F1 analytics web app<br>🤝 open to collab on F1 analytics, ML, and fintech projects<br> 🔬 researching AI applications in niche industries (e.g. yachting) and building end-to-end ML systems<br>💬 down to talk ML and building stuff that actually ships
 
-# 🌐 Socials
+# 🌐 socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akakarantzas)[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aevagnarly) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/aevagnarly)
 
-# 💻 Tech Stack
+# 💻 tech stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
