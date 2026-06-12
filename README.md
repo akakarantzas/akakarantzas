@@ -22,7 +22,7 @@ and eventually make my way to san francisco to build
 
 ### 🌐 socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akakarantzas)[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aevagnarly) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/aevagnarly)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akakarantzas)[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aevagnarly) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/aevagnarly) [![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/user/cm9u3rrhclpbtk5vel4dm80ke?si=aad3a3b7d7264c92)
 
 ---
 
