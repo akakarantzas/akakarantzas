@@ -2,7 +2,7 @@ hi i am apostolos
 
 founding member of [aeva collective](https://aeva.ae/), [aeva team](https://aevateam.com/) & [pensatori](https://pensatori-irrazionali.com/), prev intern at [viohalco](https://www.viohalco.com/), alum of [hkbu](https://www.hkbu.edu.hk/)
 
-prev [youtuber](https://www.youtube.com/@aevagnarly), [epic games](https://sac.epicgames.com/overview) partner & pro player in fortnite
+oh and i also do [youtube](https://www.youtube.com/@aevagnarly) from time to time
 
 down to talk and build stuff that actually ships
 
@@ -10,11 +10,9 @@ open to collab
 
 ---
 
-i love golf, tennis, cars, and f1
+i love golf, tennis, cars, f1, and competitive gaming
 
 own a cute pomeranian named max
-
-planning to compete in hackathons around the world
 
 ---
 
