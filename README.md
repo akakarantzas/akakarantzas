@@ -6,11 +6,9 @@ oh and i also do [youtube](https://www.youtube.com/@aevagnarly) from time to tim
 
 down to talk and build stuff that actually ships
 
-open to collab
-
 ---
 
-i love golf, tennis, cars, f1, and competitive gaming
+i love golf, tennis, cars, f1, competitive gaming, and content creation
 
 own a cute pomeranian named max
 
