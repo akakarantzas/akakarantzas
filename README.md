@@ -1,6 +1,8 @@
 hi i am apostolos
 
-founding member of [aeva collective](https://aeva.ae/), [aeva team](https://aevateam.com/) & [pensatori](https://pensatori-irrazionali.com/), prev intern at [viohalco](https://www.viohalco.com/), alum of [hkbu](https://www.hkbu.edu.hk/)
+🌐 [akakarantzas.com](https://akakarantzas.com)
+
+founding member of [aeva collective](https://aeva.ae/), [aeva team](https://aevateam.com/) & [pensatori](https://pensatori-irrazionali.com/), former intern at [viohalco](https://www.viohalco.com/), [hkbu](https://www.hkbu.edu.hk/) summer alum
 
 oh and i also do [youtube](https://www.youtube.com/@aevagnarly) from time to time
 
@@ -10,11 +12,13 @@ down to talk and build stuff that actually ships
 
 i love golf, tennis, cars, f1, competitive gaming, and content creation
 
-own a cute pomeranian named max
+more importantly, i have a cute pomeranian named max
+
+feel free to dm me for a picture
 
 ---
 
-### 🌐 socials
+### 🔗 socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akakarantzas)[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aevagnarly) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@aevagnarly) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/aevagnarly) [![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/user/cm9u3rrhclpbtk5vel4dm80ke?si=aad3a3b7d7264c92) 
 
